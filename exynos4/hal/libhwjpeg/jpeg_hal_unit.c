@@ -32,6 +32,7 @@
 #include <sys/poll.h>
 
 #include <cutils/log.h>
+#include <android/log.h>
 
 #include "jpeg_hal.h"
 
